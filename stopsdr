@@ -1,0 +1,6 @@
+
+
+pkill -9 rtl_tcp
+
+pkill -9 websdr64
+
